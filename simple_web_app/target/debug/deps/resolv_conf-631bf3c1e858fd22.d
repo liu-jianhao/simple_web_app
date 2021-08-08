@@ -1,0 +1,10 @@
+/Users/liujianhao/code/rust/simple_web_app/simple_web_app/target/debug/deps/resolv_conf-631bf3c1e858fd22.rmeta: /Users/liujianhao/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/resolv-conf-0.6.3/src/lib.rs /Users/liujianhao/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/resolv-conf-0.6.3/src/grammar.rs /Users/liujianhao/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/resolv-conf-0.6.3/src/ip.rs /Users/liujianhao/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/resolv-conf-0.6.3/src/config.rs
+
+/Users/liujianhao/code/rust/simple_web_app/simple_web_app/target/debug/deps/libresolv_conf-631bf3c1e858fd22.rlib: /Users/liujianhao/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/resolv-conf-0.6.3/src/lib.rs /Users/liujianhao/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/resolv-conf-0.6.3/src/grammar.rs /Users/liujianhao/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/resolv-conf-0.6.3/src/ip.rs /Users/liujianhao/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/resolv-conf-0.6.3/src/config.rs
+
+/Users/liujianhao/code/rust/simple_web_app/simple_web_app/target/debug/deps/resolv_conf-631bf3c1e858fd22.d: /Users/liujianhao/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/resolv-conf-0.6.3/src/lib.rs /Users/liujianhao/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/resolv-conf-0.6.3/src/grammar.rs /Users/liujianhao/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/resolv-conf-0.6.3/src/ip.rs /Users/liujianhao/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/resolv-conf-0.6.3/src/config.rs
+
+/Users/liujianhao/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/resolv-conf-0.6.3/src/lib.rs:
+/Users/liujianhao/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/resolv-conf-0.6.3/src/grammar.rs:
+/Users/liujianhao/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/resolv-conf-0.6.3/src/ip.rs:
+/Users/liujianhao/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/resolv-conf-0.6.3/src/config.rs:
